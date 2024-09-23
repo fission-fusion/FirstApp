@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun charsCounter(view: View) {
-        numberOfChars.text = textInput.text.filter { it != ' ' }.count().toString()
+        numberOfChars.text = textInput.text.filter { it != '@' }.count().toString()
     }
 
     fun onButtonClick(view: View) {
