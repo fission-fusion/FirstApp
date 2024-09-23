@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="text_developer">Программист</string>
+    <string name="hint_input_text">Введите текст</string>
+    <string name="text_header">Все наоборот</string>
+    <string name="text_button_toConvert">Преобразовать</string>
+    <string name="text_result">Результат</string>
+    <string name="text_result_2">Количество символов</string>
+</resources>
